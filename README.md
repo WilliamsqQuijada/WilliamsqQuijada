@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **HTML, CSS, JS, MySQL, PHP y Python**
 
-- 📫 Contactame **quijadawilliams155@gmail.com o al numero de telefono 61678806**
+- 📫 Contactame **quijadawilliams155@gmail.com ** o al numero de telefono **61678806**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
