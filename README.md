@@ -8,6 +8,8 @@
 - 📫 Contactame **quijadawilliams155@gmail.com** o al numero de telefono **61678806**
 
 <h3 align="left">Connect with me:</h3>
+linkedin
+https://www.linkedin.com/in/williams-pérez/
 <p align="left">
 </p>
 
