@@ -21,8 +21,11 @@ https://www.linkedin.com/in/williams-pérez/
 Este es un chatbot web hecho con Python, Streamlit y la API de OpenAI.
 
 🔗 **[Probar el chatbot en vivo](https://asistente-virtual-2025.streamlit.app)** (Para mejor experiencia, abrirlo en Laptop o de escritorio)
-
-
+## Cómo usarlo
+1. Entrá al link de la demo.
+2. Para entrar en cualquier perfil y a la hora de salir del perfil, darle doble click.
+3. Escribí un mensaje en la caja de texto.
+4. Recibí una respuesta generada por IA en segundos.
 
 
 <!---
