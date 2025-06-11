@@ -22,21 +22,8 @@ Este es un chatbot web hecho con Python, Streamlit y la API de OpenAI.
 
 🔗 **[Probar el chatbot en vivo](https://asistente-virtual-2025.streamlit.app)**
 
-## Tecnologías usadas
-- Python
-- Streamlit
-- OpenAI API
-- Git
-- GitHub
 
-## Descripción
-Este chatbot permite interactuar con la API de OpenAI en una interfaz web fácil de usar construida con Streamlit.
 
-## Cómo usarlo
-1. Entrá al link de la demo.
-2. Para acceder a los perfiles y a la hora de salir, darle 2 click.
-3. Escribí un mensaje en la caja de texto.
-4. Recibí una respuesta generada por IA en segundos.
 
 <!---
 WilliamsqQuijada/WilliamsqQuijada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
