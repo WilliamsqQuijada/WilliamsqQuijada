@@ -1,4 +1,7 @@
 <h1 align="center">Hola, Mi nombre es Williams Jose 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h3 align="center">Estudiante de ingeniería y desarrollador web en formación, enfocado en mejorar cada día, aprender nuevas tecnologías y superar retos constantes para crecer profesionalmente y aportar soluciones innovadoras.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript y Angular a través de un curso.**
