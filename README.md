@@ -32,6 +32,7 @@ Este es un chatbot web hecho con Python, Streamlit y la API de OpenAI.
 4. Recibí una respuesta generada por IA en segundos.
 
 <div align="center">
+<h2>Lenguajes mas usados</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamsqQuijada&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados"  />
 </div>
 
